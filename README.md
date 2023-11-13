@@ -1,4 +1,4 @@
-# python_portfolio
+# python_portfolio Sydni Lavespere
 This is the portfolio including my final project for Python
 
 # Python Fundamentals: 
